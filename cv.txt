@@ -5,15 +5,38 @@
 
 ################################################################################
 
+
 SUMMARY:
 ================================================================================
+A software engineer by profession, an electronics engineer by training, and a 
+deep thinker by habit. 
+
+An eager autodidact, steady leader and an avid collector and sharer of ideas.
+
+Passionately curious about business, programming, social justice, game theory, 
+economics, language, mathematics, robotics, and psychology.
 
 
 EMPLOYMENT:
 ================================================================================
+Mish Guru - Senior Developer (April 2018 - Present)
+  Snapchat and Instagram stories scheduling tool (https://www.mish.guru/)
+  
+  Worked as part of a globally destributed team expanding and supporting the
+  capabilities of the mish guru platform. 
+
+EndGame Limited - Developer (Jan 2012 - Feb 2014, Nov 2015 - Apr 2018)
+  Services company that designs and builds cloud apps in order to make
+  customers successful (https://www.end-game.com/)
+
+  Worked on, supported and sold (yes i did sales for a wee stint) all sorts of 
+  products. Some were doing fincial analytics, other measuring risk and yet
+  others for scheduling digital media across countries. 
 
 
 EDUCATION:
 ================================================================================
-
+Victoria University of Wellington (graduated 2015)
+  Bachelor of Engineering - BE(Hons) - 1st class
+  Major: Electronic and Computer Sytems
 
