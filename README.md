@@ -1,2 +1,3 @@
-# cv
-Curlable Curriculum Vitae
+# Curlable Curriculum Vitae
+
+`curl [url] | more`
