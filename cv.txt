@@ -9,7 +9,7 @@
 SUMMARY:
 ================================================================================
 A software engineer by profession, an electronics engineer by training, and a 
-deep thinker by habit. 
+deep thinker by habit.  
 
 An eager autodidact, steady leader and an avid collector and sharer of ideas.
 
@@ -29,14 +29,23 @@ EndGame Limited - Developer (Jan 2012 - Feb 2014, Nov 2015 - Apr 2018)
   Services company that designs and builds cloud apps in order to make
   customers successful (https://www.end-game.com/)
 
-  Worked on, supported and sold (yes i did sales for a wee stint) all sorts of 
-  products. Some were doing fincial analytics, other measuring risk and yet
-  others for scheduling digital media across countries. 
+  Worked on site and remotely over the years to build, support and sell (yes 
+  I did sales for a wee stint) all sorts of products. Some were doing fincial 
+  analytics, other measuring risk and yet others are used to schedule digital 
+  media across 100s of screens on buses and in banks. 
 
 
 EDUCATION:
 ================================================================================
 Victoria University of Wellington (graduated 2015)
-  Bachelor of Engineering - BE(Hons) - 1st class
+  Bachelor of Engineering with Honours (First Class)
   Major: Electronic and Computer Sytems
 
+  Honours Project: Designed and constructed a mesh network node for supporting 
+  tele-operated search and rescue robots in mines. These nodes enabled the 
+  dynamic construction and repair of a network which allows robots to traverse 
+  mine terrain without a tether.
+
+  Summer project: Contributed to a computer vision project: “Implementing real 
+  world Salient Object Detection on a robotic platform” under Associate 
+  Professor Will Browne (Nov 2014 - Feb 2015).
