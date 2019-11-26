@@ -1,3 +1,3 @@
 # Curlable Curriculum Vitae
 
-`curl [url] | more`
+`curl https://raw.githubusercontent.com/peterheesterman/cv/master/cv.txt | more`

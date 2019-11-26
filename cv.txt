@@ -13,8 +13,8 @@ deep thinker by habit.
 
 An eager autodidact, steady leader and an avid collector and sharer of ideas.
 
-Passionately curious about business, programming, social justice, game theory, 
-economics, language, mathematics, robotics, and psychology.
+Curious about business, programming, social justice, game theory, economics, 
+language, mathematics, robotics, and psychology.
 
 
 EMPLOYMENT:
@@ -46,6 +46,6 @@ Victoria University of Wellington (graduated 2015)
   dynamic construction and repair of a network which allows robots to traverse 
   mine terrain without a tether.
 
-  Summer project: Contributed to a computer vision project: “Implementing real 
+  Summer Project: Contributed to a computer vision project: “Implementing real 
   world Salient Object Detection on a robotic platform” under Associate 
   Professor Will Browne (Nov 2014 - Feb 2015).
