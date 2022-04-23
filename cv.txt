@@ -8,18 +8,28 @@
 
 SUMMARY:
 ================================================================================
-A software engineer by profession, an electronics engineer by training, and a 
-deep thinker by habit.  
+Currently managing a team and loving it. I wrote software for a decade, studied
+electronics engineering and math before that and have a habit of thinking deeply
+about the world.
 
-An eager autodidact, steady leader and an avid collector and sharer of ideas.
+I am an eager autodidact, steady leader and an avid collector and sharer of
+ideas.
+
+I love hearing from people - please send me a loom!
 
 Curious about business, programming, social justice, game theory, economics, 
-language, mathematics, robotics, and psychology.
+language, mathematics, robotics, rock climbing, and psychology.
 
 
 EMPLOYMENT:
 ================================================================================
-Mish Guru - Senior Developer (April 2018 - Present)
+Loom - Engineering Magnager - Capture (Nov 2020 - Present)
+  Capture is responsible for our recorders and ingestion at loom. 
+
+  We work across four timezones, building the technology that uplaods petabytes
+  of data to loom's backend services.
+
+Mish Guru - Senior Developer (April 2018 - Nov 2020)
   Snapchat and Instagram stories scheduling tool (https://www.mish.guru/)
   
   Worked as part of a globally destributed team expanding and supporting the
