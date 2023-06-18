@@ -9,7 +9,7 @@
 SUMMARY:
 ================================================================================
 Currently managing a team and loving it. I wrote software for a decade, studied
-electronics engineering and math before that and have a habit of thinking deeply
+electronics engineering and math, and have a habit of thinking deeply
 about the world.
 
 I am an eager autodidact, steady leader and an avid collector and sharer of
@@ -24,7 +24,11 @@ language, mathematics, robotics, rock climbing, and psychology.
 EMPLOYMENT:
 ================================================================================
 Loom - Engineering Magnager - Capture (Nov 2020 - Present)
-  Capture is responsible for our recorders and ingestion at loom. 
+  Capture is responsible for our recorders and ingestion at loom.
+   - Windows desktop application
+   - MacOs desktop application
+   - Chrome extension
+   - Partner recorder (SDK)
 
   We work across four timezones, building the technology that uplaods petabytes
   of data to loom's backend services.
